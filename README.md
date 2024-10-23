@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Lobster&color=4CAF50&size=35&center=true&vCenter=true&width=1000&lines=|;Olá+Mundo+|;+Meu+nome+é+Ellen+Karla+|;Seja+bem+Vindo+(a)+ao+Meu+perfil!+|)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Lobster&color=4CAF50&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo+|;+Meu+nome+é+Ellen+Karla+|;Seja+bem+Vindo+(a)+ao+Meu+perfil!+|)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -30,7 +30,8 @@
   </br>
 
   <!--Sobre Mim-->
-<h2>SOBRE MIM</h2>
+  </br>
+<h2> ◯ ⚪ SOBRE MIM ⚪ ◯ </h2>
  <table style="width: 80%; margin-top: 80px; border-collapse: collapse;">
     <tr>
         <td style="width: 60%; text-align: center; color: white;">
@@ -43,13 +44,13 @@
           </div>
         </td>
         <td style="width: 40%; text-align: center;">
-            <img src="https://github.com/Ellenylce/Portfolio/raw/main/images/garota_programadora.jpeg" alt="Descrição da Imagem" width="100%" style="max-width: 305px; height: auto;">
+            <img src="https://github.com/Ellenylce/banco_imgs_read_me/raw/main/imgs/menina programadora.png" alt="Descrição da Imagem" width="100%" style="max-width: 305px; height: auto;">
         </td>
     </tr>
 </table>
-
+</br>
 <!--Hard-Skill-->
-## Hard-Skills
+<h2> ◯ ⚪ Hard-Skills ⚪ ◯</h2>
 
 | **Skills**  | **Tecnologias**                                               |
 |-------------|--------------------------------------------------------------|
@@ -63,7 +64,7 @@
 
 <!--Cards Soft Skill-->
 <div align="center">
- <h2>Soft Skill</h2>
+ <h2> ◯ ⚪ Soft-Skills ⚪ ◯ </h2>
   <table >
   <tr>
     <td>
@@ -106,9 +107,9 @@
   </tr>
 </table>
 </div>
-
+</br>
 <!--Estatísticas-->
-<h2>Status</h2>
+<h2>◯ ⚪ Estatísticas ⚪ ◯</h2>
 <div align="center";style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://github.com/Ellenylce" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=Ellenylce&show_icons=true&theme=dracula" alt="Estatísticas do GitHub da Ellenylce" width="525" />
@@ -117,5 +118,5 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellenylce&layout=compact&theme=dracula" alt="Linguagens mais usadas" width="400" />
     </a>
 </div>
-</div> <!--subtitulo>
-
+</div> <!--subtitulo-->
+</br>
