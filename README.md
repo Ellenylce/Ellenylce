@@ -31,7 +31,7 @@
 
   <!--Sobre Mim-->
   </br>
-<h2> ◯ ⚪ SOBRE MIM ⚪ ◯ </h2>
+<h2> ◯  ◯ SOBRE MIM  ◯ ◯ </h2>
  <table style="width: 80%; margin-top: 80px; border-collapse: collapse;">
     <tr>
         <td style="width: 60%; text-align: center; color: white;">
@@ -50,7 +50,7 @@
 </table>
 </br>
 <!--Hard-Skill-->
-<h2> ◯ ⚪ Hard-Skills ⚪ ◯</h2>
+<h2> ◯  ◯ Hard-Skills  ◯ ◯</h2>
 
 | **Skills**  | **Tecnologias**                                               |
 |-------------|--------------------------------------------------------------|
@@ -64,22 +64,27 @@
 
 <!--Cards Soft Skill-->
 <div align="center">
- <h2> ◯ ⚪ Soft-Skills ⚪ ◯ </h2>
+ <h2> ◯  ◯ Soft-Skills  ◯ ◯ </h2>
   <table >
   <tr>
-    <td>
+    <td align="center">
+      <img src="https://github.com/Ellenylce/banco_imgs_read_me/raw/main/imgs/engrenagem.png" alt="engrenagem" width="100%" style="width: 40px; height: 40px;">
       <h4 style="color:red;">Pensamento Estratégico</h4>
     </td>
-    <td >
+    <td align="center">
+      <img src="https://github.com/Ellenylce/banco_imgs_read_me/raw/main/imgs/gestao_project.png" alt="gestão de projetos" width="100%" style="width: 40px; height: 40px;">
       <h4>Gestão de Projetos</h4>
     </td>
-    <td >
+    <td align="center">
+      <img src="https://github.com/Ellenylce/banco_imgs_read_me/raw/main/imgs/lideranca.png" alt="liderança" width="100%" style="width: 40px; height: 40px;">
       <h4>Liderança</h4>
     </td>
-    <td >
+    <td  align="center" >
+      <img src="https://github.com/Ellenylce/banco_imgs_read_me/raw/main/imgs/desenvolvimento_equipe.png" alt="desenvolvimento de equipe" width="100%" style="width: 40px; height: 40px;">
       <h4>Desenvolvimento de Equipes</h4>
     </td>
-    <td >
+    <td  align="center">
+      <img src="https://github.com/Ellenylce/banco_imgs_read_me/raw/main/imgs/comunicacao.png" alt="comunicacao" width="100%" style="width: 40px; height: 40px;">
       <h4>Boa Comunicação</h4>
     </td>
   </tr>
@@ -89,19 +94,24 @@
 <div align="center">
   <table>
   <tr>
-    <td>
+    <td  align="center">
+       <img src="https://github.com/Ellenylce/banco_imgs_read_me/raw/main/imgs/pensamento_analitico.png" alt="pensamento analitico" width="100%" style="width: 40px; height: 40px;">
       <h4>Pensamento Analítico</h4>
     </td>
-    <td >
+    <td  align="center">
+       <img src="https://github.com/Ellenylce/banco_imgs_read_me/raw/main/imgs/pensamento_criativo.png" alt="pensamento criativo" width="100%" style="width: 40px; height: 40px;">
       <h4>Pensamento Criativo</h4>
     </td>
-    <td >
+    <td  align="center">
+       <img src="https://github.com/Ellenylce/banco_imgs_read_me/raw/main/imgs/gestao_tempo.png" alt="gestão de tempo" width="100%" style="width: 40px; height: 40px;">
       <h4>Gestão de tempo</h4>
     </td>
-    <td >
+    <td  align="center">
+      <img src="https://github.com/Ellenylce/banco_imgs_read_me/raw/main/imgs/resolucao_problemas.png" alt="resolucao_problema" width="100%" style="width: 40px; height: 40px;">
       <h4>Resolução de Problemas</h4>
     </td>
-    <td >
+    <td  align="center">
+       <img src="https://github.com/Ellenylce/banco_imgs_read_me/raw/main/imgs/trabalho_equipe.png" alt="trabalho_equipe" width="100%" style="width: 40px; height: 40px;">
       <h4>Trabalho em Equipe</h4>
     </td>
   </tr>
@@ -109,7 +119,7 @@
 </div>
 </br>
 <!--Estatísticas-->
-<h2>◯ ⚪ Estatísticas ⚪ ◯</h2>
+<h2>◯  ◯ Estatísticas  ◯ ◯</h2>
 <div align="center";style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://github.com/Ellenylce" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=Ellenylce&show_icons=true&theme=dracula" alt="Estatísticas do GitHub da Ellenylce" width="525" />
